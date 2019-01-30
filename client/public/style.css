@@ -1,0 +1,58 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 13px;
+}
+
+.t-m-2 {
+	margin-top:2rem;
+}
+
+.bg-blue {
+	background-color:#077dee;
+}
+
+.bg-prime {
+	background-color: #f9f9fe;
+}
+
+.pulled-down{
+	margin-top: 5vh;
+}
+
+.card-header {
+	background-color: transparent;
+	border-bottom-color: transparent;
+	font-weight: 600;
+}
+
+.card-h {
+	min-height: 30vh;
+}
+
+.card {
+	border-color: #eee;
+}
+
+.text-wh {
+	color: white;
+}
+
+img {
+	cursor: pointer; 
+}
+
+.main-content {
+
+}
+
+.graph-wrapper {
+}
+
+.results-wrapper {
+	font-size: 1.5rem;
+}
+
+#tsne-plot {
+	width: 100%;
+	min-height: 500px;
+}

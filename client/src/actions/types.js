@@ -1,0 +1,5 @@
+export const FETCH_IMAGES = 'FETCH_IMAGES';
+export const FETCH_IMAGE = 'FETCH_IMAGE';
+export const FETCH_N_SIMILARITY = 'FETCH_N_SIMILARITY';
+export const FETCH_WORDS = 'FETCH_WORDS';
+export const FETCH_MODEL = 'FETCH_MODEL';
